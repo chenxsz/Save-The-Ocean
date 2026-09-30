@@ -55,22 +55,12 @@ O principal objetivo de **SAVE THE OCEAN** é promover a conscientização ambie
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-```bash
-# 1. Clone este repositório
-git clone https://github.com/seu-usuario/save-the-ocean.git
-
-# 2. Acesse a pasta do projeto
-cd save-the-ocean
-
-# 3. Abra o arquivo index.html no navegador
-```
-
----
-
 ## 🤝 Contribuição & Licença
 
 Contribuições são super bem-vindas! Se você deseja adicionar novos tipos de poluição, peixes ou fases, sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
 
 *Juntos, podemos transformar o aprendizado em uma ferramenta poderosa para salvar os oceanos!* 🐠⚓
+
+## Autor
+
+Fernanda Chen - estudante de BCC - IFSP campus SJBV
